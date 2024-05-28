@@ -1,6 +1,6 @@
-Public class Main {
+public class Main {
 
-public static main void(String[] args) {
+public static void main(String[] args) {
 
 Banking banking = new Bankings();
 
@@ -16,4 +16,6 @@ Transfer transfer = new Transfer();
 
 Bills bill = new Bills();
 
+}
 
+}
